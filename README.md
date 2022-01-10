@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvkagrawal" alt="dhruvkagrawal" /></a> </p>
 
-- 🌱 I’m currently learning Data Structures and Algorithms and MERN Stack.**
+- 🌱 I’m currently learning Data Structures and Algorithms and MERN Stack.
 
-- ⚡ Fun fact : I love debugging because it makes me feel like a superhero🦸‍♀️!**
+- ⚡ Fun fact : I love debugging because it makes me feel like a superhero🦸‍♀️!
 
 ## 🚀 Languages and Tools  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 ![JavaScript_Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -35,29 +35,26 @@
 ![stats](https://github-readme-streak-stats.herokuapp.com/?user=DhruvKagrawal&theme=react&hide_border=true")
 
   
-<!--   ### ⚡Top Repositories
+  ### ⚡Top Repositories
 
 
-<a href="https://github.com/mariabarkouzou/Create-An-Awesome-README.md-File">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=mariabarkouzou&repo=Create-An-Awesome-README.md-File&theme=react" />
+<a href="https://github.com/Dhruvkagrawal/FrontendMasters-Clone">
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvKagrawal&repo=FrontendMasters-Clone&File&theme=react" />
 </a>
-<a href="https://github.com/mariabarkouzou/FrontEnd-Web-Development-Useful-Resources">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mariabarkouzou&repo=FrontEnd-Web-Development-Useful-Resources&theme=react" />
+<a href="https://github.com/Dhruvkagrawal/HealtKart.com-Clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvKagrawal&repo=HealtKart.com-Clone&theme=react" />
   </a>
-   <a href="https://github.com/mariabarkouzou/Covid19-Tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mariabarkouzou&repo=Covid19-Tracker&theme=react" />
+   <a href="https://github.com/Dhruvkagrawal/PharmEasy-Clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dhruvkagrawal&repo=PharmEasy-Clone&theme=react" />
 </a>
-   <a href="https://github.com/mariabarkouzou/PostAtApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mariabarkouzou&repo=PostAtApp&theme=react" />
+   <a href="https://github.com/Dhruvkagrawal/DhruvKagrawal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dhruvkagrawal&repo=DhruvKagrawal&theme=react" />
 </a>
-  <a href="https://github.com/mariabarkouzou/Rock-Paper-And-Scissors">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mariabarkouzou&repo=Rock-Paper-And-Scissors&theme=react" />
-</a>
- <a href="https://github.com/mariabarkouzou/Calculator-Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mariabarkouzou&repo=Calculator-Project&theme=react" />
+  <a href="https://github.com/Dhruvkagrawal/Portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dhruvkagrawal&repo=Portfolio&theme=react" />
 </a>
   
 <br />
-<br /> -->
+<br />
 
 ### Looking forward to collaborate on interesting projects, share your creative ideas with me and let's build together. 🤝
