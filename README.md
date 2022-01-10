@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact : I love debugging because it makes me feel like a superhero🦸‍♀️!**
 
-## 🚀 Languages and Tools  <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+## 🚀 Languages and Tools  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 ![JavaScript_Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React_Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NodeJs_Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -24,15 +24,15 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 
-### Reach me on 🌏
+### Reach me on <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
 <a href="https://twitter.com/DhruvKagrawal" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/dhruvkagrawal" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@DhruvkAgrawal" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="mailto:dhruvkumaragrawal7@gmail.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ### My GitHub Stats:
-| <a href="https://github-readme-stats.vercel.app/api?username=DhruvKagrawal&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DhruvKagrawal&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true" alt="Maria's Github Stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvKagrawal&layout=compact&langs_count=7&theme=react&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvKagrawal&layout=compact&langs_count=7&theme=react&hide_border=true" /></a> |
-<br />
-![stats](https://github-readme-streak-stats.herokuapp.com/?user=DhruvKagrawal&theme=tokyonight_duo)
+![stats](https://github-readme-stats.vercel.app/api?username=DhruvKagrawal&theme=react&hide_border=true")
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvKagrawal&theme=react&hide_border=true")
+![stats](https://github-readme-streak-stats.herokuapp.com/?user=DhruvKagrawal&theme=react&hide_border=true")
 
   
 <!--   ### ⚡Top Repositories
