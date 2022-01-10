@@ -44,15 +44,6 @@
 <a href="https://github.com/Dhruvkagrawal/HealtKart.com-Clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DhruvKagrawal&repo=HealtKart.com-Clone&theme=react" />
   </a>
-   <a href="https://github.com/Dhruvkagrawal/PharmEasy-Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dhruvkagrawal&repo=PharmEasy-Clone&theme=react" />
-</a>
-   <a href="https://github.com/Dhruvkagrawal/DhruvKagrawal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dhruvkagrawal&repo=DhruvKagrawal&theme=react" />
-</a>
-  <a href="https://github.com/Dhruvkagrawal/Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dhruvkagrawal&repo=Portfolio&theme=react" />
-</a>
   
 <br />
 <br />
