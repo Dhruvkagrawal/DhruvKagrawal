@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/dhruvkagrawal" target="blank"><img src="https://img.shields.io/twitter/follow/dhruvkagrawal?logo=twitter&style=for-the-badge" alt="dhruvkagrawal" /></a> </p>
 
-- 🔭 I’m currently working on **HealthKart Clone**
+- 🔭 These days I'm working on different kinds of projects!**
 
 - 🌱 I’m currently learning **React**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **dhruvkumaragrawal7@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I love debugging because it makes me feel like a superhero🦸‍♀️!**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
