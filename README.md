@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Dhruv Kumar Agrawal</h1>
 <h3 align="center">I'm a passionate Full Stack Developer Specialized in MERN Stack from India.</h3>
 
