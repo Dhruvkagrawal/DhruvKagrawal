@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dhruv Kumar Agrawal</h1>
 
+<h3 align="center">I’m a full-stack web developer and creative coder who specializes in MERN stack development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. A passionate learner who's always willing to learn and work across technologies and domains 💡.</br>I love to explore new technologies and leverage them to solve real-life problems.</h3>
 <p align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure;Algorithm;MERN+Stack;Full+Stack+Web+Developer"></a>
 </p>
-<h3 align="center">I’m a full-stack web developer and creative coder who specializes in MERN stack development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. A passionate learner who's always willing to learn and work across technologies and domains 💡.</br>I love to explore new technologies and leverage them to solve real-life problems.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvkagrawal" alt="dhruvkagrawal" /></a> </p>
 
