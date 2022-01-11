@@ -30,9 +30,9 @@
 </p>
 
  ### My GitHub Stats:
-![stats](https://github-readme-stats.vercel.app/api?username=DhruvKagrawal&theme=react&hide_border=true")
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvKagrawal&theme=react&hide_border=true")
 ![stats](https://github-readme-streak-stats.herokuapp.com/?user=DhruvKagrawal&theme=react&hide_border=true")
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvKagrawal&theme=react&hide_border=true")
+![stats](https://github-readme-stats.vercel.app/api?username=DhruvKagrawal&theme=react&hide_border=true")
 
   
   ### ⚡Top Repositories
